@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skills",
+  "description": "Custom Claude Code skills marketplace by ElvishScout",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Jiakai Jiang",
+    "email": "elvishscoutustc@outlook.com"
+  },
+  "plugins": [
+    {
+      "name": "example-skill",
+      "description": "An example skill template demonstrating how to package and distribute skills in this marketplace",
+      "version": "1.0.0",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/example-skill"
+      ]
+    }
+  ]
+}
