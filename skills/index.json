@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "name": "example-skill",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    }
+  ]
+}
