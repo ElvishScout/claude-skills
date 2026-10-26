@@ -9,16 +9,6 @@
   },
   "plugins": [
     {
-      "name": "example-skill",
-      "description": "An example skill template demonstrating how to package and distribute skills in this marketplace",
-      "version": "1.0.0",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/example-skill"
-      ]
-    },
-    {
       "name": "prompt-writing",
       "description": "编写、重构或迭代提示词（Prompt）与 Skill（SKILL.md）时使用。从当前目标状态出发组织指令，消除多轮修改产生的补丁痕迹、过度强调与否定、个例硬编码及 AI 腔，使条理清晰、语言平实。",
       "version": "1.0.0",

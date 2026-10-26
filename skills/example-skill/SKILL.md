@@ -1,6 +1,7 @@
 ---
 name: example-skill
 description: Example skill template showing the structure and frontmatter format for Claude Code skills.
+disable-model-invocation: true
 ---
 
 # Example Skill

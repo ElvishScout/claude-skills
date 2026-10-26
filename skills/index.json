@@ -1,13 +1,6 @@
 {
   "skills": [
     {
-      "name": "example-skill",
-      "version": "1",
-      "files": [
-        "SKILL.md"
-      ]
-    },
-    {
       "name": "prompt-writing",
       "version": "1",
       "files": [
