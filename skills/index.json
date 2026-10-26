@@ -6,6 +6,13 @@
       "files": [
         "SKILL.md"
       ]
+    },
+    {
+      "name": "prompt-writing",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
     }
   ]
 }
